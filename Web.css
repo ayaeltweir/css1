@@ -1,0 +1,13 @@
+.Contaner{
+    background-color: darkgrey;
+    text-align: center;
+}
+ p{
+    color:teal;
+}
+.service {
+    display: inline-block;
+    width: 24%;
+    background-color: azure;
+
+}
